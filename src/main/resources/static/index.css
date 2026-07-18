@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    background-color:orange;
+    background-color: orange;
 }
 h1{
     color:blue;
@@ -12,6 +12,7 @@ h1{
     border-color: gray;
     padding: 20px;
     text-align: center;
+    background-color: lightcoral;
 }
 
 .navbar a{
